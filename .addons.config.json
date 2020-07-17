@@ -1,0 +1,11 @@
+{
+    "modules": [
+	"addons/*"
+    ],
+    "release": [{
+	"repo": "git@github.com:clouderp/odoo-cli_argparse",
+	"modules": [
+	    "addons/cli_argparse"
+	]
+    }]
+}
